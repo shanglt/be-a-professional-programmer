@@ -29,11 +29,9 @@
 - [大数据处理/数据分析/分布式工具](#%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%88%86%E5%B8%83%E5%BC%8F%E5%B7%A5%E5%85%B7)
 - [Web前端](#web%E5%89%8D%E7%AB%AF)
 - [语言篇](#%E8%AF%AD%E8%A8%80%E7%AF%87)
-  - [Scala](#scala)
   - [Java](#java)
   - [Python](#python)
   - [Swift](#swift)
-  - [C & C++](#c--c)
 - [其他](#%E5%85%B6%E4%BB%96)
   - [游戏开发相关](#%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3)
   - [日志聚合，分布式日志收集](#%E6%97%A5%E5%BF%97%E8%81%9A%E5%90%88%E5%88%86%E5%B8%83%E5%BC%8F%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86)
@@ -436,29 +434,13 @@
 
 ## 语言篇
 
-折腾中：Scala、Python、Lua、JavaScript、Go
+折腾中：Python、Lua、JavaScript、Go
 
 待折腾：
 - [Racket](http://racket-lang.org/)
 - [OCaml](http://ocaml.org/)
 - [Rust](https://www.rust-lang.org)
 - [Julia](http://julialang.org/)
-
-### Scala
-
-- [Scala Standard Library API](http://www.scala-lang.org/api/current/)
-- [Scala School!](http://twitter.github.io/scala_school/): A Scala tutorial by Twitter
-- [A Tour of Scala](http://docs.scala-lang.org/tutorials/tour/tour-of-scala.html): Tutorial introducing the main concepts of Scala
-- [Scala Overview on StackOverflow](http://stackoverflow.com/tags/scala/info): A list of useful questions sorted by topic
-- [Programming in Scala](http://www.artima.com/pins1ed/)，最新的第3版，还没有电子版，电子版是第一版
-- 《Scala for the Impatient》
-- 《Scala in Depth》
-- 《Programming Scala》Dean Wampler and Alex Payne. O’Reilly 2009
-- [Scala By Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
-- [Scala Cheatsheet](http://docs.scala-lang.org/cheatsheets/)学习模式匹配的好资料
-- [Glossary of Scala and FP terms](http://docs.scala-lang.org/glossary/)
-- [Metascala: A JVM written in Scala](https://github.com/lihaoyi/Metascala)
-- [LMS: Program Generation and Embedded Compilers in Scala](https://scala-lms.github.io/)
 
 ### Java
 
